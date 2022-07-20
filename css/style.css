@@ -12,7 +12,7 @@ html,
 body {
   height: 100%;
   font-feature-settings: "palt";
-  background-color: rgb(93, 205, 245);
+  background-color: rgb(240, 170, 170);
   position: relative;
 }
 
@@ -80,7 +80,7 @@ header a {
 }
 
 header .inner {
-  background-color: rgb(136, 239, 234);
+  background-color: rgb(255, 255, 255);
   position: relative;
   display: flex;
   justify-content: space-between;
