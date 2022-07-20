@@ -17,7 +17,7 @@ body {
 }
 
 body {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.6;
   font-family:serif,"游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
   color: #333333;
@@ -198,9 +198,9 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
 ================================================= */
 .top_eye_catch {
   height: 500px;
-  color: #fff;
+  color: rgb(9, 68, 63);
   font-weight: bold;
-  background-image: url(../images/IMG_8032.jpeg);/* 背景画像 */
+  background-image: url(../images/IMG_8031.jpeg);/* 背景画像 */
   background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
   background-position: center center;/* 背景画像の位置 */
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
